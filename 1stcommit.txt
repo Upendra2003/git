@@ -1,1 +1,2 @@
-this is to skip the staging area to commit
+this is to skip the staging area to commit.
+this added by me in integration branch
